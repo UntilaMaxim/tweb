@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMW - Istoria Modelelor</title>
+    <link rel="stylesheet" href="css/ist.css">
+</head>
+<body>
+    <script src="Scripts/script1.js"></script>
+    <header>
+        <h1>BMW - Bayerische Motoren Werke</h1>
+        <h2>Sheer Driving Pleasure</h2>
+    </header>
+    
+    <div class="container">
+        <aside class="sidebar">
+            <ul>
+                <li><a href="index.html">Start</a></li>
+                <li><a href="principala.html">Pagina Principală</a></li>
+                <li><a href="istorie.html">Istorie</a></li>
+                <li><a href="ist-modelelor.html">Istoria modelelor</a></li>
+            </ul>
+        </aside>
+    
+        
+        <main>
+            <h2>Istoria modelelor BMW</h2>
+            <div class="section">
+                <div>
+                    <h3>BMW 507 din 1956</h3>
+                    <img src="images/BMW 507.jpg" alt="BMW 507">
+                    <p>BMW 507 este unul dintre cele mai iconice modele produse de BMW, lansat în 1956 și fabricat până în 1959. A fost un roadster de lux destinat pieței americane, cu un design elegant și un motor puternic.</p>
+                    
+                    <h4>Specificații tehnice:</h4>
+                    <ul>
+                        <li><strong>Motor:</strong> 2.8L L6 (6 cilindri în linie)</li>
+                        <li><strong>Putere:</strong> 170 CP la 6.000 rpm</li>
+                        <li><strong>Cuplu:</strong> 235 Nm la 3.700 rpm</li>
+                        <li><strong>Transmisie:</strong> Manuală, 4 trepte (opțional automată 3 trepte)</li>
+                        <li><strong>Viteză maximă:</strong> 200 km/h</li>
+                        <li><strong>Accelerație 0-100 km/h:</strong> 8.5 secunde</li>
+                        <li><strong>Greutate:</strong> 1.340 kg</li>
+                        <li><strong>Tracțiune:</strong> Spate</li>
+                    </ul>
+                    <p>✔ A fost baza pentru modelele legendare 3.0 CS, CSi și CSL, folosite în competiții.<br>
+                       ✔ A influențat designul viitoarelor BMW Seria 6.</p>
+                </div>
+                
+                <div>
+                    <h3>BMW 2800 CS</h3>
+                    <img src="images/2800 CS.jpg" alt="BMW 2800 CS">
+                    <p>BMW 2800 CS a fost un model coupé lansat în 1968, parte a seriei BMW E9. Acest model a marcat o evoluție importantă în linia BMW, combinând un design sofisticat cu performanțe remarcabile.</p>
+                    
+                    <h4>Specificații tehnice:</h4>
+                    <ul>
+                        <li><strong>Motor:</strong> 3.2L V8</li>
+                        <li><strong>Putere:</strong> 150 CP la 5.000 rpm</li>
+                        <li><strong>Cuplu:</strong> 235 Nm la 4.000 rpm</li>
+                        <li><strong>Transmisie:</strong> Manuală, 4 trepte</li>
+                        <li><strong>Viteză maximă:</strong> 190 km/h</li>
+                        <li><strong>Accelerație 0-100 km/h:</strong> 10 secunde</li>
+                        <li><strong>Greutate:</strong> 1.330 kg</li>
+                        <li><strong>Consum mediu:</strong> ~14 l/100 km</li>
+                    </ul>
+                    <p>✔ A fost condus de Elvis Presley și Alain Delon.<br>
+                       ✔ Valoarea unui exemplar restaurat depășește 2 milioane de dolari.</p>
+                </div>
+                
+                <div>
+                    <h3>BMW Seria 7 (E38)</h3>
+                    <img src="images/7.jpg" alt="BMW Seria 7">
+                    <p>BMW Seria 7 din anul 2000 face parte din generația E38, una dintre cele mai apreciate limuzine de lux produse de BMW. Cu un design elegant, tehnologie avansată și motorizări puternice, E38 rămâne un model legendar în istoria BMW.</p>
+                    
+                    <h4>Specificații tehnice (750iL – versiunea de top):</h4>
+                    <ul>
+                        <li><strong>Motor:</strong> 5.4L V12 (M73)</li>
+                        <li><strong>Putere:</strong> 322 CP la 5.000 rpm</li>
+                        <li><strong>Cuplu:</strong> 490 Nm la 3.900 rpm</li>
+                        <li><strong>Transmisie:</strong> Automată, 5 trepte</li>
+                        <li><strong>Viteză maximă:</strong> 250 km/h (limitată)</li>
+                        <li><strong>Accelerație 0-100 km/h:</strong> 6.4 secunde</li>
+                        <li><strong>Greutate:</strong> 1.950 kg</li>
+                        <li><strong>Tracțiune:</strong> Spate</li>
+                    </ul>
+                    <p>✔ A fost prima BMW Seria 7 cu sistem de navigație și TV.<br>
+                       ✔ Apare în filme celebre precum James Bond – Tomorrow Never Dies.</p>
+                </div>
+                
+                <div>
+                    <h3>BMW Z4</h3>
+                    <img src="images/Z4.jpg" alt="BMW Z4">
+                    <p>BMW Z4 este un roadster sportiv produs de BMW, cunoscut pentru designul său elegant, performanța puternică și plăcerea pură a condusului. A fost lansat inițial în 2002 ca succesor al modelului BMW Z3.</p>
+                    
+                    <h4>Specificații tehnice (BMW Z4 M40i 2023):</h4>
+                    <ul>
+                        <li><strong>Motor:</strong> 3.0L L6 turbo (B58)</li>
+                        <li><strong>Putere:</strong> 382 CP la 5.800 rpm</li>
+                        <li><strong>Cuplu:</strong> 500 Nm la 1.800 rpm</li>
+                        <li><strong>Transmisie:</strong> Automată, 8 trepte (manuală pe versiunile mai vechi)</li>
+                        <li><strong>Viteză maximă:</strong> 250 km/h (limitată)</li>
+                        <li><strong>Accelerație 0-100 km/h:</strong> 4.1 secunde</li>
+                        <li><strong>Greutate:</strong> 1.535 kg</li>
+                        <li><strong>Tracțiune:</strong> Spate</li>
+                    </ul>
+                    <p>✔ Modelul actual are platformă comună cu Toyota Supra A90.<br>
+                       ✔ Disponibil în versiuni coupe și cabrio.</p>
+                </div>
+                
+                <div>
+                    <h3>BMW Seria 5 (E39)</h3>
+                    <img src="images/e39.jpg" alt="BMW Seria 5 E39">
+                    <p>BMW Seria 5 E39 este a patra generație a modelului BMW Seria 5, produs între 1995 și 2003. Acest model este cunoscut pentru combinația sa de confort, performanță și tehnologie avansată, devenind rapid un favorit în segmentul sedanurilor de lux.</p>
+                    
+                    <h4>Specificații tehnice (BMW M5 E39 – versiunea de top):</h4>
+                    <ul>
+                        <li><strong>Motor:</strong> 4.9L V8 (S62)</li>
+                        <li><strong>Putere:</strong> 400 CP la 6.600 rpm</li>
+                        <li><strong>Cuplu:</strong> 500 Nm la 3.800 rpm</li>
+                        <li><strong>Transmisie:</strong> Manuală, 6 trepte</li>
+                        <li><strong>Viteză maximă:</strong> 250 km/h (limitată)</li>
+                        <li><strong>Accelerație 0-100 km/h:</strong> 4.9 secunde</li>
+                        <li><strong>Greutate:</strong> 
